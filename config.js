@@ -1,7 +1,7 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ' , 'https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs' , 'https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F' , 'https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC' , 'https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb'] // No tiene utilidad 
 global.channelYT = ['https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'] // No tiene utilidad
-global.owner = ['593993684821' , '593968585383' , '14509777159' , '994407312387' , '529996125657'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.owner = ['50584528742' , '50589269817' , '50586678361' , '994407312387' , '529996125657'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 global.mods = ['5219992095479' , '972557048356'] // No tiene utilidad
 global.prems = ['5219996125657' , '5219991402134'] // No tiene utilidad
 
@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'GataBot 🐈'
-global.author = 'Gata Dios'
+global.packname = '15/12/2006'
+global.author = '⸂ᗧⴷⴽⴿ󠀬ソⵡヱ⸃'
 
 
 //global.wait = '*Esperé un momento..*'
